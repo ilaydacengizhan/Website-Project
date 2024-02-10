@@ -1,4 +1,5 @@
 Website Project Output:
+
 <img width="949" alt="1" src="https://github.com/ilaydacengizhan/Website-Project/assets/90273136/fd3d716b-d442-4259-bb0e-a23e03b76ac7">
 <img width="946" alt="2" src="https://github.com/ilaydacengizhan/Website-Project/assets/90273136/d7be26a1-ad4e-43b5-bd14-a3ef3ced0cd8">
 <img width="948" alt="3" src="https://github.com/ilaydacengizhan/Website-Project/assets/90273136/501cd413-8f11-464e-9e11-301cad7afa73">
